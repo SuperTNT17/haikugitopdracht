@@ -7,11 +7,11 @@ function Haiku1(){
     console.log("The clouds give rest ");
     console.log("To the moon-beholders.");
 }
-function HaikuX(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+function Haiku2(){
+    console.log("haiku by:","Yosa Buson");
+    console.log("Over-ripe sushi");
+    console.log("The Master Is full of regret.");
+    console.log("Silence again.");
 }
 function HaikuX(){
     console.log("haiku by:","AUTHOR");
