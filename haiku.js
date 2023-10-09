@@ -13,11 +13,11 @@ function Haiku2(){
     console.log("The Master Is full of regret.");
     console.log("Silence again.");
 }
-function HaikuX(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+function Haiku3(){
+    console.log("haiku by:","Kobayashi Issa");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part");
+    console.log("My life, - How much more of it remains? The night is brief.");
+    console.log("From time to time The clouds give rest To the moon-beholders.    ");
 }
 
 
